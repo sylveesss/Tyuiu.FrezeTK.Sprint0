@@ -1,13 +1,9 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="TyuiuFrezeTK.Sprint0.Task0.V0/TyuiuFrezeTK.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task0.V0/Tyuiu.FrezeTK.Sprint0.Task0.V0.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="TyuiuFrezeTK.Sprint0.Task1.V0/TyuiuFrezeTK.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task1.V0/Tyuiu.FrezeTK.Sprint0.Task1.V0.csproj" />
   </Folder>
-  <Folder Name="/Task2/">
-    <Project Path="Tyuiu.FrezeTK.Sprint0.Task2.V0.Test/Tyuiu.FrezeTK.Sprint0.Task2.V0.Test.csproj" />
-    <Project Path="Tyuiu.FrezeTK.Sprint0.Task2.V0/Tyuiu.FrezeTK.Sprint0.Task2.V0.csproj" />
-    <Project Path="Tyuiu.FrezeTK.Sprit0.Task2.V0.Lib/Tyuiu.FrezeTK.Sprit0.Task2.V0.Lib.csproj" />
-  </Folder>
+  <Folder Name="/Task2/" />
 </Solution>
