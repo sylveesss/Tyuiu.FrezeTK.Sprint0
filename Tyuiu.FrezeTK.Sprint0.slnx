@@ -5,5 +5,14 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.FrezeTK.Sprint0.Task1.V0/Tyuiu.FrezeTK.Sprint0.Task1.V0.csproj" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task2.V0.Lib/Tyuiu.FrezeTK.Sprint0.Task2.V0.Lib.csproj" Id="1ab9d8c8-118f-4814-91d3-e5a84e525a23" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task2.V0.Test/Tyuiu.FrezeTK.Sprint0.Task2.V0.Test.csproj" Id="121ef8be-d6f9-4e63-9c2a-bf9b0e788edd" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task2.V0/Tyuiu.FrezeTK.Sprint0.Task2.V0.csproj" Id="f6342554-7c3b-42c5-ac40-29365f8d1e52" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task3.V0.Lib/Tyuiu.FrezeTK.Sprint0.Task3.V0.Lib.csproj" Id="f3fc17e3-66e8-418b-945c-b6dc9aaa35d7" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task3.V0.Test/Tyuiu.FrezeTK.Sprint0.Task3.V0.Test.csproj" Id="fa540af6-9637-4281-a595-d9dad3498fa3" />
+    <Project Path="Tyuiu.FrezeTK.Sprint0.Task3.V0/Tyuiu.FrezeTK.Sprint0.Task3.V0.csproj" Id="a23046c5-139b-4db0-85ba-cf6f2497e6c3" />
+  </Folder>
 </Solution>
